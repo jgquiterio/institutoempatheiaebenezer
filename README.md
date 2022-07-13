@@ -28,7 +28,7 @@
 <td colspan="4">Sistema desenvolvido na plataforma WORDPRESS + ELEMENTOR PRO para blog de instituição de caridade e ou doações, tendo seu principal objetivo receber doações para ajudar pessoas carentes e necessitadas.</td>
 </tr>
 <tr>
-<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/178820455-5138ac88-2bac-4816-a06f-093ea6fb9720.pn" alt="" /></td>
+<td style="width: 25%;" colspan="4"><img src="https://user-images.githubusercontent.com/109168134/178820455-5138ac88-2bac-4816-a06f-093ea6fb9720.png" alt="" /></td>
 </tr>
 </tbody>
 </table>
